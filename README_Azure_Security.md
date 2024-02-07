@@ -21,6 +21,8 @@ This project demonstrates the setup, security implementation, and monitoring of 
 
 - Action: Created a resource group az-test in Azure to manage all resources for this project.
 - Purpose: Organizes all the Azure assets within this project under a unified management scope.
+- ![App Screenshot](https://github.com/SarthakRana007/Azure-Security-Project/blob/52d562d6a601f7e84aee57c5df0cf00ee5dfc571/Screenshots/1.%20Create%20resource%20group.png)
+
 
 #### Step 2: Setting Up a Virtual Network
 - Action: Configured the virtual network az-vnet with the address space 10.0.0.0/16.
