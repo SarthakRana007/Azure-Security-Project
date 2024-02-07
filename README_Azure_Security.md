@@ -65,7 +65,6 @@ This project demonstrates the setup, security implementation, and monitoring of 
 - Action: Created a custom policy to enforce HTTPS transfer for storage accounts.
 - Purpose: Ensures that all data transfer to the storage account is over a secure channel.
 - ![App Screenshot](https://github.com/SarthakRana007/Azure-Security-Project/blob/d5d6bc2d9da8550cad3ccb4cc0c17132418a3e95/Screenshots/6.%20Customize%20security%20policy.png)
-- ![App Screenshot]()
   
 #### Step 9: Simulating a Policy Violation
 - Action: Created 'aztestingstorageaccount' with secure transfer disabled to simulate policy violation and then use Microsoft Defender for cloud to remediate the issue.
